@@ -10,11 +10,11 @@ format:
 
   <!-- Foto de perfil -->
   <div class="avatar-wrapper">
-    <img src="foto.jpg" alt="Foto de perfil" />
+    <img src="Abejax.jpeg" alt="Foto de perfil" />
   </div>
 
   <!-- Nombre y cargo -->
-  <h1>Diego Puente R</h1>
+  <h1>Diego Puente Rivera</h1>
   <p class="subtitle">
     Estudiante de Licenciatura · Universidad  Autónoma de Querétaro
   </p>
@@ -51,14 +51,14 @@ format:
   </p>
 
   <p>
-    Actualmente me encuentro en el [año] año de mi [Licenciatura / Maestría /
-    Doctorado] en [área]. Mis intereses de investigación incluyen:
+    Actualmente me encuentro en el 4to año de mi Licenciatura en Microbiología. Mis            intereses de investigación incluyen: Tratamiento de agua, Botánica, Entomología y          Zoología
+    
   </p>
 
   <ul style="color: #7f8c8d; font-size: 0.95rem;">
-    <li>Interés de investigación 1</li>
-    <li>Interés de investigación 2</li>
-    <li>Interés de investigación 3</li>
+    <li>Tratamiento de agua</li>
+    <li>Botánica</li>
+    <li>Entomología</li>
   </ul>
 
   <!-- Afiliación / instituciones -->
@@ -67,8 +67,8 @@ format:
 
   <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
     <div>
-      <strong style="font-size: 0.95rem;">Nombre de la Universidad</strong><br>
-      <span style="font-size: 0.85rem; color: #7f8c8d;">Departamento / Facultad · Ciudad, País</span>
+      <strong style="font-size: 0.95rem;">Univesidad Autónoma de Querétaro</strong><br>
+      <span style="font-size: 0.85rem; color: #7f8c8d;">Querétaro / Facultad de Ciencias            Naturales · Querétaro, México</span>
     </div>
   </div>
 

@@ -3,7 +3,7 @@
     "path": "~/GitHub/Quarto_Diego/Quarto_Proyecto/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2631832629",
+    "hash": "1923021887",
     "contents": "",
     "dirty": false,
     "created": 1776880633805.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "599:229.4339599609375",
+        "rmdVisualModeLocation": "184:65.81131744384766",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1777325379,
+    "lastKnownWriteTime": 1777336552,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1777325379278,
+    "last_content_update": 1777336552530,
     "read_only": false,
     "read_only_alternatives": []
 }
